@@ -1,5 +1,6 @@
 package marekw.Klient;
 // Wrzucamy do Gita
+// Do Gita lokalnego
 import java.net.*;
 import java.io.*;
 public class Klient {
